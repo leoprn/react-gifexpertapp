@@ -1,7 +1,11 @@
 
+# GifExpertApp
+
+Sitio desarrollado en REACT, el cual consume los servicios de la API giphy.com
+
 Puedes probarlos aca https://leoprn.github.io/react-gifexpertapp/
 
-
+Vista previa [gifExpertApp](hhttps://firebasestorage.googleapis.com/v0/b/diverfotos-1525148899472.appspot.com/o/gifExpertApp.jpg?alt=media&token=be9c92b5-51bc-4da9-ad84-6969ae82bb4b).
 
 
 
